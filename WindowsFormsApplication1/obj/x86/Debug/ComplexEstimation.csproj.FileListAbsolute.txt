@@ -1,0 +1,9 @@
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\ComplexEstimation.csprojResolveAssemblyReference.cache
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\ComplexEstimation.csproj.GenerateResource.cache
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\ComplexEstimation.csproj.CoreCompileInputs.cache
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\work\Visual Studio 2010\Projects\ComplexExtimation\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
